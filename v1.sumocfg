@@ -1,0 +1,19 @@
+<configuration>
+
+
+    <input>
+        
+        <net-file value="v8.net.xml" />
+
+        
+        <route-files value="v8.rou.xml" />
+    </input>
+	
+
+    <time>
+        
+        <begin value="0" />
+    </time>
+
+   
+</configuration>
